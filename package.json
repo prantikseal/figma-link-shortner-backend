@@ -1,0 +1,25 @@
+{
+  "name": "link-shortener-backend",
+  "version": "1.0.0",
+  "description": "a custom link shortener for long figma and zoom links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prantikseal/figma-link-shortner-backend.git"
+  },
+  "keywords": [
+    "link",
+    "shortener",
+    "figma",
+    "zoom"
+  ],
+  "author": "prantikseal, anmolghai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prantikseal/figma-link-shortner-backend/issues"
+  },
+  "homepage": "https://github.com/prantikseal/figma-link-shortner-backend#readme"
+}
